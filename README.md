@@ -1,4 +1,4 @@
-# HLS_Lab_B
+# HLS_Lab_B Convolution Filtering
 
 ## Algorithm introduction :
 
